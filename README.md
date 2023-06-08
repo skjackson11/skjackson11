@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skjackson11
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Software Engineering, Machine Learning, and Artificial Intelligence.
+- 🌱 I’m currently learning Data Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skjackson@coca-cola.com
 
